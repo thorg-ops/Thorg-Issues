@@ -2,8 +2,10 @@ blank_issues_enabled: false
 contact_links:
   - name: Official documentation
     url: TODO
+    about: Check our documentation for guides and gotchas.
   - name: Thorg Discord community
     url: https://discord.gg/YGthSxfu 
+    about: Join our discord to connect with users and devs, and hear about the latest updates.
   - name: Thorg support email
     url: TODO
     about: Contact us directly if your issue contains sensitive information.
